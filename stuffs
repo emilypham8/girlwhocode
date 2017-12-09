@@ -1,0 +1,53 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Login- Fashion Madness</title>
+  <meta name="description" content="Login for fashion polls.">
+  <meta name="author" content="Jessica">
+
+  <link rel="stylesheet" href="css/styles.css">
+
+</head>
+
+<body>
+  <script src="js/scripts.js"></script>
+    <h1>Login-Fashion Madness</h1>
+</body>
+</html>
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Login- Fashion Madness</title>
+  <meta name="description" content="Login for fashion polls.">
+  <meta name="author" content="Jessica">
+  <title>Login</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+    <script src="js/scripts.js"></script>
+    
+    <h1>Login</h1>
+    <label>Username:</label><br>
+    <input type="text" id"username"><br>
+    <label>Password</label>
+    <input type="text" id"password"><br>
+    <button type="button" onclick="login()">Login</button>
+    <p id="error" class="hide>Access Denied!</p>
+</body>
+</html>
+
+<div id="tabs">
+      <button class="tab" on click="goToPage('home')">Home</button>
+      <button class="tab" on click="goToPage('about')">About</button>
+      <button class="tab" on click="goToPage('voting')">Voting</button>
+      <button class="tab" on click="goToPage('profile')">Profile</button>
+</div>
+</body>
+</html>
